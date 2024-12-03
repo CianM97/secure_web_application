@@ -1,8 +1,8 @@
-"# Insecure Web Application" 
-This is the insecure version of the web application where we demonstrate common vulnerabilities:
-- SQL Injection
-- XSS (Cross-Site Scripting)
-- Sensitive Data Exposure
+"# Secure Web Application" 
+This is the secure version of the web application with proper security measures implemented:
+- Prepared Statements to prevent SQL Injection
+- Input Sanitization to prevent XSS
+- Password Hashing to prevent Sensitive Data Exposure
 
 ## Setup Instructions
 1. Clone the repository.
